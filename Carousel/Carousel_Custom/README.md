@@ -1,4 +1,3 @@
-##  Carousel Custom
+## Carousel Custom
 
-![Edit [IOS] Carousel Custom Form](../../_gifs/carousel/carousel_custom.gif)
-
+![Edit [SwiftUI] Carousel Custom Form](../../_gifs/carousel/carousel_custom.gif)
