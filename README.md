@@ -29,3 +29,5 @@ There will be continuous updates in the future. Thank you!
 ### Carousel
 
 - [Carousel Custom](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Custom)
+
+- [Carousel Slider Offset Top](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Slider_Offset_Top)
