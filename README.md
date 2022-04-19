@@ -26,8 +26,25 @@ There will be continuous updates in the future. Thank you!
 
 <!-- [![opensollective](https://opencollective.com/awesome-swiftui-styling/tiers/sponsors.svg?avatarHeight=48)](https://opencollective.com/awesome-swiftui-styling) -->
 
+## App List
+
 ### Carousel
 
-- [Carousel Custom](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Custom)
+- [Carousel Custom](#carousel-custom)
 
-- [Carousel Slider Offset Top](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Slider_Offset_Top)
+- [Carousel Slider Offset Top](#carousel-slider-offset-top)
+
+---
+
+### Carousel Custom
+![Edit [SwiftUI] Carousel Custom Form](./_gifs/carousel/carousel_custom.gif)
+
+- [Source Code](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Custom)
+<!-- [![View Source Code](./_icons/icons8-code-26.png)](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Custom)
+ -->
+---
+
+### Carousel Slider Offset Top
+![Edit [SwiftUI] Carousel Custom Form](./_gifs/carousel/carousel_slider_offset_top.gif)
+
+- [Source Code](https://github.com/Dev-JeromeBaek/awesome-swiftui-styling/tree/master/Carousel/Carousel_Slider_Offset_Top)
